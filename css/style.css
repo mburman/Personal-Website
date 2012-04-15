@@ -1,0 +1,45 @@
+body {
+	background-color: #ffffff;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-size: 14;
+}
+
+a {
+	color: red;
+}
+
+ul {
+	color: red;
+}
+
+#main {
+	width: 65%;
+	margin: 0 auto;
+}
+
+#content {
+	width: 70%;
+	float: left;
+}
+
+#sidebar {
+	width: 25%;
+	float: right;
+}
+
+
+#myface {
+	margin-top: 60px;
+}
+
+#blurb {
+	text-align:justify;
+	background-color: #EEEEEE;
+	padding: 15px 15px 15px 15px;	
+	
+	margin-right: 5px;
+	width: 95%;	
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+
