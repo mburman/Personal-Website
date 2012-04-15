@@ -12,6 +12,10 @@ ul {
 	color: red;
 }
 
+hr {
+	color: black;
+}
+
 #main {
 	width: 65%;
 	margin: 0 auto;
@@ -22,11 +26,14 @@ ul {
 	float: left;
 }
 
+#footer {
+	text-align:center;
+}
+
 #sidebar {
 	width: 30%;
 	float: right;
 }
-
 
 #myface {
 	margin-top: 60px;
