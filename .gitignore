@@ -1,0 +1,4 @@
+#Comment for .gitignore
+
+.backups/
+./css/.backups/
